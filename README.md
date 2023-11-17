@@ -1,2 +1,2 @@
 # MyPythonrep
-Repositório com códigos em python.
+Repositório com meus códigos em python.
